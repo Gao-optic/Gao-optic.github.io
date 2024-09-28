@@ -50,7 +50,7 @@ interests:
 
 education:
   - area: M.S Physics(Optics)
-    institution: Huazhong University of Science and Technology
+    institution: Huazhong University of Science and Technology.
     date_start: 2022-09-01
     date_end: 2025-6-30
     summary: |
