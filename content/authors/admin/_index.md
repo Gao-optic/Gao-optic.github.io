@@ -52,7 +52,7 @@ education:
   - area: M.S Physics(Optics)
     institution: Huazhong University of Science and Technology.
     date_start: 2022-09-01
-    date_end: 2022-6-30
+    date_end: 
     summary: |
       GPA: 3.6/4.0
 
