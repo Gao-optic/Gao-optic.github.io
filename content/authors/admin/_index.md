@@ -52,7 +52,7 @@ education:
   - area: M.S Physics(Optics)
     institution: Huazhong University of Science and Technology.
     date_start: 2022-09-01
-    date_end: 2025-6-30
+    date_end: 2022-6-30
     summary: |
       GPA: 3.6/4.0
 
@@ -148,4 +148,4 @@ awards:
 ## About Me
 
 I am currently a graduate student majoring in the optics at Huazhong University of science and technoledge, under the supervision of Professor WeiCao at the school of Phisics.
-I an seeking a Phd position for Fall 2025. If you are interested, please feel free to contacy me! 
+I an seeking a Phd position for Fall 2025. If you are interested, please feel free to contact me! 
