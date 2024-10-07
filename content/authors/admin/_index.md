@@ -91,7 +91,7 @@ skills:
       - name: GitHub
         description: ''
         percent: 40
-        icon: brands/github
+        icon: code-bracket
  - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
