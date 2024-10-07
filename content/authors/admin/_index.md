@@ -71,7 +71,7 @@ education:
       Advanced Mathematics, Linear Algebra, University Physics, Optics, Laser Principle,Film Optics,Photoelectric Detecting Technique, Signal \& Systematic Analysis
   
 
-Skills
+#Skills.
 # Add your own SVG icons to `assets/media/icons/`
 skills:
  - name: Computer
