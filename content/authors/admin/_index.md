@@ -51,7 +51,7 @@ interests:
 education:
   - area: M.S in Physics(Optics)
     institution: Huazhong University of Science and Technology.
-    date_start: 2022-09-01
+    date_start: 20220901
     date_end: 
     summary: |
       GPA: 3.6/4.0
@@ -62,8 +62,8 @@ education:
     
   - area: B.S in Optical Information Science and Technology
     institution: Changchun University of  Science and Technology
-    date_start: 2018-09-01
-    date_end: 2022-06-01
+    date_start: 20180901
+    date_end: 20220601
     summary: |
       GPA: 3.76/4.0
 
