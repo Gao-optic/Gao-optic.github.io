@@ -93,22 +93,7 @@ skills:
  - name: GitHub
    percent: 40
    icon: developer/matlab
- - name: Hobbies
-    color： '#eeac02'
-    color_border： '#f0bf23'
-   items:
-     - name： Hiking
-        description： ''
-        percent： 80
-        icon： person-simple-walk
-      - name： Cats
-        description： ''
-        percent： 100
-        icon： cat
-      - name： movies
-        description： ''
-        percent： 90
-        icon： camera
+
 
 languages:
   - name: English
