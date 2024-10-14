@@ -73,41 +73,41 @@ education:
 
 #Skills.
 # Add your own SVG icons to `assets/media/icons/`
-skills:
+skills: 
  - name: Computer
-    items:
-     - name: Matlab、C++、Python
-        description: ''
-        percent: 90
-        icon: code-bracket
+    items：
+     - name： Matlab、C++、Python
+        description： ''
+        percent： 90
+        icon： code-bracket
  - name: Lab
-    items:
-     - name: Zemax, SolidWorks, Keil, FDTD, SPSS, Auto CAD, Labview
-        description: ''
-        percent: 75
-        icon: chart-bar
+    items：
+     - name： Zemax, SolidWorks, Keil, FDTD, SPSS, Auto CAD, Labview
+        description： ''
+        percent： 75
+        icon： chart-bar
  - name: Developer Tools
-    items:
-      - name: GitHub
-        description: ''
-        percent: 40
-        icon: code-bracket
+    items：
+      - name： GitHub
+        description： ''
+        percent： 40
+        icon： code-bracket
  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-     - name: Hiking
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: movies
-        description: ''
-        percent: 90
-        icon: camera
+    color： '#eeac02'
+    color_border： '#f0bf23'
+    items：
+     - name： Hiking
+        description： ''
+        percent： 80
+        icon： person-simple-walk
+      - name： Cats
+        description： ''
+        percent： 100
+        icon： cat
+      - name： movies
+        description： ''
+        percent： 90
+        icon： camera
 
 languages:
   - name: English
