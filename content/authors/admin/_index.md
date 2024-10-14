@@ -87,9 +87,9 @@ skills:
    - name: ComputerZemax, SolidWorks, Keil, FDTD, SPSS, Auto CAD, Labview
    
    percent: Computer75
-   icon: Computerchart-bar
+   icon: 
  - name: Developer Tools
-   items: 
+   items: Computercode-bracket
    - name：GitHub
    
    percent: 40
