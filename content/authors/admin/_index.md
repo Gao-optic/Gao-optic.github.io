@@ -51,7 +51,7 @@ interests:
 education:
   - area: M.S in Physics(Optics)
     institution: Huazhong University of Science and Technology.
-    date_start: 20220901
+    date_start: 2022-09-01
     date_end: 
     summary: |
       GPA: 3.6/4.0
@@ -62,8 +62,8 @@ education:
     
   - area: B.S in Optical Information Science and Technology
     institution: Changchun University of  Science and Technology
-    date_start: 20180901
-    date_end: 20220601
+    date_start: 2018-09-01
+    date_end: 2022-06-01
     summary: |
       GPA: 3.76/4.0
 
@@ -73,16 +73,40 @@ education:
 
 #Skills.
 # Add your own SVG icons to `assets/media/icons/`
-skills: 
- - name: English
-   icon: developer/matlab
-   percent: 80
- - name: developer/matlab
-   icon:
-   percent: 80
- - name: English
-   icon:
-   percent: 80
+
+skills:
+  - name: Technical Skills
+    items:
+      - name: Python、C++、Matlab
+        description: ''
+        percent: 90
+        icon: developer/python
+      - name: developer
+        description: ''
+        percent: 70
+        icon: developer/matlab
+      - name: Lab
+        description: ''
+        percent: 90
+        icon: developer/matlab
+      
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-simple-walk
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera
+
  
  
 
