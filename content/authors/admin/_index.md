@@ -75,7 +75,7 @@ education:
 # Add your own SVG icons to `assets/media/icons/`
 skills: 
  - name: English
-   icon: Matlab
+   icon: developer/matlab
    percent: 80
  - name: developer/matlab
    icon:
