@@ -22,7 +22,7 @@ sections:
     content:
       title: Skills & Hobbies
       username: admin
-    design:
+    #design:
       
   - block: resume-awards
     content:
