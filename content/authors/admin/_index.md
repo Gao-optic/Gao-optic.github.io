@@ -90,8 +90,7 @@ skills:
    icon: 
  - name: Developer Tools
    items: Computercode-bracket
-   - name：GitHub
-   
+ - name: GitHub
    percent: 40
    icon: code-bracket
  - name: Hobbies
