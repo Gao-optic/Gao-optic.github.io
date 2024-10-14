@@ -60,7 +60,7 @@ sections:
       #filters:
        # folders:
         #  - publication
-        e#xclude_featured: false
+     #   e#xclude_featured: false
     #design:
      # view: citation
   #- block: collection
@@ -115,8 +115,8 @@ sections:
         
         #From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
       #button:
-        text: Get Started
-        url: https://hugoblox.com/templates/
+       # text: Get Started
+       # url: https://hugoblox.com/templates/
    # design:
     #  card:
         # Card background color (CSS class)
