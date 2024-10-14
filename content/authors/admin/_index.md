@@ -77,27 +77,27 @@ skills:
 
  
  - name: Computer
-   items：
+   items:
    - name: Matlab、C++、Python
   
    percent: 90
    icon: Computercode-bracket
  - name: Lab
    items：
-   - name： Zemax, SolidWorks, Keil, FDTD, SPSS, Auto CAD, Labview
-   description： ''
-   percent： 75
-   icon： chart-bar
+   - name: ComputerZemax, SolidWorks, Keil, FDTD, SPSS, Auto CAD, Labview
+   
+   percent: Computer75
+   icon: Computerchart-bar
  - name: Developer Tools
-   items： 
+   items: 
    - name：GitHub
-   description： ''
-        percent： 40
-        icon： code-bracket
+   
+   percent: 40
+   icon: code-bracket
  - name: Hobbies
     color： '#eeac02'
     color_border： '#f0bf23'
-    items：
+   items:
      - name： Hiking
         description： ''
         percent： 80
