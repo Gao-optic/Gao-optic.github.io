@@ -77,16 +77,17 @@ skills:
 
  
  - name: Computer
+   icon: developer/matlab
    items:
    - name: Matlab、C++、Python
-  
+   
    percent: 90
-   icon: developer/matlab
+   
  - name: Lab
    items:
-   - name: ComputerZemax, SolidWorks, Keil, FDTD, SPSS, Auto CAD, Labview
+   - name: Zemax, SolidWorks, Keil, FDTD, SPSS, Auto CAD, Labview
    
-   percent: Computer75
+   percent: 75
    icon: developer/matlab
  - name: Developer Tools
    items: 
