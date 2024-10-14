@@ -74,26 +74,17 @@ education:
 #Skills.
 # Add your own SVG icons to `assets/media/icons/`
 skills: 
-
+ - name: English
+   icon: Matlab
+   percent: 80
+ - name: developer/matlab
+   icon:
+   percent: 80
+ - name: English
+   icon:
+   percent: 80
  
- - name: Computer
-   icon: developer/matlab
-   items:
-   - name: Matlab、C++、Python
-   
-   percent: 90
-   
- - name: Lab
-   items:
-   - name: Zemax, SolidWorks, Keil, FDTD, SPSS, Auto CAD, Labview
-   
-   percent: 75
-   icon: developer/matlab
- - name: Developer Tools
-   items: 
- - name: GitHub
-   percent: 40
-   icon: developer/matlab
+ 
 
 
 languages:
