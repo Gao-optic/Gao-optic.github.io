@@ -15,7 +15,7 @@ sections:
       username: admin
     design:
       # Hugo date format
-      date_format: 'a'
+      #date_format: 'a'
       # Education or Experience section first?
       is_education_first: false
   - block: resume-skills
@@ -23,7 +23,7 @@ sections:
       title: Skills & Hobbies
       username: admin
     design:
-      show_skill_percentage: false
+      
   - block: resume-awards
     content:
       title: Awards
