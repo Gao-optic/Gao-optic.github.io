@@ -1,7 +1,7 @@
 ---
 title: Optics Teaching Asistant
 summary:  Course for undergraduate 
-date: 2023-2-24
+date: 2023-2-24--2023-7-1
 type: docs
 math: false
 tags:
