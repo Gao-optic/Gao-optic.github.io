@@ -97,7 +97,7 @@ skills:
     items:
       - name: Hiking
         description: ''
-        percent: 80
+        percent: 85
         icon: person-simple-walk
       - name: Cats
         description: ''
