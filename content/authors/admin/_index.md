@@ -81,18 +81,18 @@ skills:
    - name: Matlab、C++、Python
   
    percent: 90
-   icon: Computercode-bracket
+   icon: developer-matlab
  - name: Lab
    items:
    - name: ComputerZemax, SolidWorks, Keil, FDTD, SPSS, Auto CAD, Labview
    
    percent: Computer75
-   icon: 
+   icon: developer-matlab
  - name: Developer Tools
    items: Computercode-bracket
  - name: GitHub
    percent: 40
-   icon: code-bracket
+   icon: developer-matlab
  - name: Hobbies
     color： '#eeac02'
     color_border： '#f0bf23'
