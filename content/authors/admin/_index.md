@@ -77,18 +77,19 @@ education:
 skills:
   - name: Technical Skills
     items:
-      - name: Python、C++、Matlab
+      - name: Computer:Python、C++、Matlab
         description: ''
         percent: 90
         icon: developer/python
-      - name: developer
+      - name: Lab:Zemax, SolidWorks, Keil, FDTD, SPSS, Auto CAD, Labview 
+        description: ''
+        percent: 90
+        icon: developer/labview
+      - name: Github
         description: ''
         percent: 70
         icon: developer/matlab
-      - name: Lab
-        description: ''
-        percent: 90
-        icon: developer/matlab
+      
       
   - name: Hobbies
     color: '#eeac02'
@@ -96,15 +97,15 @@ skills:
     items:
       - name: Hiking
         description: ''
-        percent: 60
+        percent: 80
         icon: person-simple-walk
       - name: Cats
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Movies
         description: ''
-        percent: 80
+        percent: 90
         icon: camera
 
  
