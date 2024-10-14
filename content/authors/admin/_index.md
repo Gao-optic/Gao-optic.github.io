@@ -83,7 +83,7 @@ skills:
    percent: 90
    icon: Computercode-bracket
  - name: Lab
-   items：
+   items:
    - name: ComputerZemax, SolidWorks, Keil, FDTD, SPSS, Auto CAD, Labview
    
    percent: Computer75
