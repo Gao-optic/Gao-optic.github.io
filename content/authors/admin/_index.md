@@ -89,7 +89,7 @@ skills:
    percent: Computer75
    icon: developer-matlab
  - name: Developer Tools
-   items: Computercode-bracket
+   items: 
  - name: GitHub
    percent: 40
    icon: developer-matlab
